@@ -10,6 +10,12 @@
 https://raw.githubusercontent.com/OWNER/REPO/main/output/clash.yaml
 ```
 
+```angular2html
+Sansa：
+    例如我将这个项目拉到我本地后的订阅链接就变成了：
+https://raw.githubusercontent.com/12-miracle/free-clash-verge/main/output/clash.yaml
+```
+
 如果仓库是公开的，这个链接会随 Actions 更新自动返回最新版配置。`output/source-status.json` 可查看每个上游最近一次抓取是否成功。
 
 ## 本地运行
